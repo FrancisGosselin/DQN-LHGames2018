@@ -4,7 +4,7 @@ This is the bot we made during the 10hours AI challenge of the LHGames.
 Allthough we did not have the time to train it fully, we did have time 
 to create a model adapted to the game using Theano and keras.
 
-### Input and Outputs of the model
+## Input and Outputs of the model
 
 state (input) :
 - game map
